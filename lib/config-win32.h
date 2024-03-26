@@ -32,6 +32,8 @@
 /*                          HEADER FILES                            */
 /* ---------------------------------------------------------------- */
 
+#define ALLOW_MSVC6_WITHOUT_PSDK
+
 /* Define if you have the <arpa/inet.h> header file. */
 /* #define HAVE_ARPA_INET_H 1 */
 
