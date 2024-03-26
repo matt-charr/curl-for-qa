@@ -709,7 +709,7 @@ endif()
 
 set(HAVE_LIBZ OFF)
 set(USE_ZLIB OFF)
-optional_dependency(ZLIB)
+# optional_dependency(ZLIB)
 if(ZLIB_FOUND)
   set(HAVE_LIBZ ON)
   set(USE_ZLIB ON)
