@@ -33,7 +33,6 @@
 /* ---------------------------------------------------------------- */
 
 /* Define if you have the <arpa/inet.h> header file. */
-#define ALLOW_MSVC6_WITHOUT_PSDK
 /* #define HAVE_ARPA_INET_H 1 */
 
 /* Define if you have the <fcntl.h> header file. */
