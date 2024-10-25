@@ -745,7 +745,7 @@ endif()
 # and before calling openssl_check_symbol_exists().
 
 set(HAVE_LIBZ OFF)
-curl_dependency_option(ZLIB)
+# curl_dependency_option(ZLIB)
 if(ZLIB_FOUND)
   set(HAVE_LIBZ ON)
 
